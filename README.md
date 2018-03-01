@@ -1,6 +1,6 @@
 ## TURBO GEARS 2.3 ##
 
-CLICK [[HERE](https://github.com/jordy33/turbogears_tutorial/wiki/Turbo-Gears-Tutorial)] TO ACCESS TUTORIAL
+CLICK [[HERE](https://github.com/jordy33/turbogears_tutorial/wiki)] TO ACCESS TUTORIAL
 
 Turbo Gears is based in MVC:  
 
